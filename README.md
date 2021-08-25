@@ -7,7 +7,7 @@
 ### I'm ZhaoPengFei
 
 - 🌱一个Android开发攻城狮
-- 开源爱好者,移动安全爱好者
+- 开源爱好者 移动安全爱好者 平面设计师
 - 💬 微信:Jackey06 欢迎一起讨论学习
 - ⭐ 个人博客 [www.zpfdev.cn](https://www.zpfdev.cn)
 
@@ -26,23 +26,5 @@
 ![AdobeIllustrator](https://img.shields.io/badge/-AI-333333?style=flat&logo=AdobeIllustrator&logoColor=FF9A00)
 ![AdobeAfterEffects](https://img.shields.io/badge/-AE-333333?style=flat&logo=AdobeAfterEffects&logoColor=9999FF)
 ![AdobePremierePro](https://img.shields.io/badge/-PR-333333?style=flat&logo=AdobePremierePro&logoColor=9999FF)
-
-<!-- 
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall) -->
-
-<!-- ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo) -->
 
 > ***我喜欢交朋友。可以添加我的微信交流学习😊***
