@@ -9,7 +9,6 @@
 - 🌱一个Android开发攻城狮&开源爱好者。
 - 💬 微信:Jackey06 欢迎一起讨论学习
 - ⭐ 个人博客 [www.zpfdev.cn](https://www.zpfdev.cn)
-- ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
 
