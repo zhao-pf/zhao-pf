@@ -20,7 +20,7 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🛠️ &#160;![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=AdobePhotoshop&logoColor=31A8FF)
+- 🛠️ &#160;![Adobe Photoshop](https://img.shields.io/badge/-PS-333333?style=flat&logo=AdobePhotoshop&logoColor=31A8FF)
 ![AdobeXD](https://img.shields.io/badge/-XD-333333?style=flat&logo=AdobeXD&logoColor=FF0000)
 ![AdobeInDesign](https://img.shields.io/badge/-ID-333333?style=flat&logo=AdobeInDesign&logoColor=FF3366)
 ![AdobeIllustrator](https://img.shields.io/badge/-AI-333333?style=flat&logo=AdobeIllustrator&logoColor=FF9A00)
