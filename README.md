@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/微信-Jackey06-red.svg "微信")]()
+[![博客搭建交流群](https://img.shields.io/badge/微信-Jackey06-red.svg "微信")](mailto:Jackey06)
 [![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhaopengfei779@gmail.com)](mailto:zhaopengfei779@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
@@ -8,7 +8,7 @@
 
 - 🌱一个Android开发攻城狮&开源爱好者。
 - 💬 微信:Jackey06 欢迎一起讨论学习
-- ⭐ 个人博客 [webkettle](https://www.zpfdev.cn)
+- ⭐ 个人博客 [www.zpfdev.cn](https://www.zpfdev.cn)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
