@@ -13,7 +13,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160;![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android&logoColor=3DDC84)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=6DB33F)
