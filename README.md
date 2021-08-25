@@ -6,9 +6,9 @@
 
 ### I'm ZhaoPengFei
 
-- 🌱 一个Android开发攻城狮
-- 👋 开源爱好者 移动安全爱好者 平面设计师
+- 🌱 Android开发攻城狮
 - 💬 微信:[Jackey06](Jackey06) 欢迎一起讨论学习
+- 👋 开源爱好者 移动安全爱好者 平面设计师
 - ⭐ 个人博客 [www.zpfdev.cn](https://www.zpfdev.cn)
 
 ### 🛠 技术栈 | Tech Stack
