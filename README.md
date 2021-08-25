@@ -2,8 +2,8 @@
 [![博客搭建交流群](https://img.shields.io/badge/微信-Jackey06-red.svg "微信")](mailto:Jackey06)
 [![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhaopengfei779@gmail.com)](mailto:zhaopengfei779@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+ -->
 ### I'm ZhaoPengFei
 
 - 🌱一个Android开发攻城狮&开源爱好者。
