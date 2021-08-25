@@ -21,11 +21,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🛠️ &#160;![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=AdobePhotoshop&logoColor=31A8FF)
-![XD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=AdobeXD&logoColor=FF0000)
-![ID](https://img.shields.io/badge/-AdobeInDesign-333333?style=flat&logo=AdobeInDesign&logoColor=FF3366)
-![AI](https://img.shields.io/badge/-AdobeIllustrator-333333?style=flat&logo=AdobeIllustrator&logoColor=FF9A00)
-![AE](https://img.shields.io/badge/-AdobeAfterEffects-333333?style=flat&logo=AdobeAfterEffects&logoColor=9999FF)
-![PR](https://img.shields.io/badge/-AdobePremierePro-333333?style=flat&logo=AdobePremierePro&logoColor=9999FF)
+![AdobeXD](https://img.shields.io/badge/-XD-333333?style=flat&logo=AdobeXD&logoColor=FF0000)
+![AdobeInDesign](https://img.shields.io/badge/-ID-333333?style=flat&logo=AdobeInDesign&logoColor=FF3366)
+![AdobeIllustrator](https://img.shields.io/badge/-AI-333333?style=flat&logo=AdobeIllustrator&logoColor=FF9A00)
+![AdobeAfterEffects](https://img.shields.io/badge/-AE-333333?style=flat&logo=AdobeAfterEffects&logoColor=9999FF)
+![AdobePremierePro](https://img.shields.io/badge/-PR-333333?style=flat&logo=AdobePremierePro&logoColor=9999FF)
 
 <!-- 
 ### 开源项目
