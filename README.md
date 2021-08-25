@@ -19,8 +19,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+
+<!-- 
 ### 开源项目
-<!-- - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
 - [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 - [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
 - [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
