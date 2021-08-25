@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/微信-Jackey06-red.svg "微信")](document.execCommand('Jackey06'))
-[![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhaopengfei779@gmail.com)](mailto:joeysiwei@gmail.com)
+[![博客搭建交流群](https://img.shields.io/badge/微信-Jackey06-red.svg "微信")]()
+[![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhaopengfei779@gmail.com)](mailto:zhaopengfei779@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -37,4 +37,4 @@
 - [CSDN](https://zhousiwei.blog.csdn.net/)
 - [微博](http://weibo.com/jayinfo) -->
 
-> ***我喜欢交朋友。可以添加我的微信😊***
+> ***我喜欢交朋友。可以添加我的微信交流学习😊***
