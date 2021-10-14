@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=6DB33F)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0295FF)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js&logoColor=4FC08D)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
