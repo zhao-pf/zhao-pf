@@ -6,9 +6,9 @@
 
 ### I'm Jackey06
 
-- 🌱 Android开发攻城狮
+- 🌱 Android开发
 - 💬 微信:[Jackey06](Jackey06) 欢迎一起讨论学习
-- 👋 开源爱好者 移动安全爱好者 平面设计师
+- 👋 开源爱好者 移动应用安全爱好者 平面设计爱好者
 - ⭐ 个人博客 [www.zpfdev.cn](https://www.zpfdev.cn)
 
 > ***我喜欢交朋友。可以添加我的微信交流学习😊***
