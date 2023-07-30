@@ -1,15 +1,5 @@
-<!---## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/微信-Jackey06-red.svg "微信")](mailto:Jackey06)
-[![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhaopengfei779@gmail.com)](mailto:zhaopengfei779@gmail.com)
----
-### I'm Jackey06
--->
-<!-- <img align="right" alt="微信" width="20%" src="http://image.zpfdev.cn:7060/images/WeChat.jpg" /> -->
+## Hi 伙计 👋
 
-
-
-- 🌱 Android开发
-<!--- 💬 微信:[Jackey06](Jackey06) 欢迎一起讨论学习
-- 👋 移动应用安全爱好者 平面设计爱好者
-> ***我喜欢交朋友。可以添加我的微信交流学习😊***
- -->
+## 欢迎大家添加我或交流群进行技术交流，广交朋友  
+### 交流群和我的微信:  
+<img src="https://files.catbox.moe/21ftzt.png"  width="260"/><img src="https://files.catbox.moe/49cvq4.png" width="260" />  
